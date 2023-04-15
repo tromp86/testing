@@ -79,7 +79,8 @@ header {
 
 .button1,
 .button2,
-.button3 {
+.button3,
+.button4 {
   width: 120px;
   margin: auto 0;
   font-size: 16px;
@@ -94,10 +95,14 @@ header {
   color: white;
 }
 .button2 {
-  background-color: #252829;
+  background-color: #414445;
   color: white;
 }
 .button3 {
   background-color: #008cba;
+  color: white;
+}
+.button4 {
+  background-color: #0e0e0e;
   color: white;
 }
